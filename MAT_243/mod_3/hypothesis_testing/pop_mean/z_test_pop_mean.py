@@ -30,7 +30,7 @@ print("P Value: ", p_value)
 # x1 = sample mean
 # value = population mean
 # alternative = 'larger' because we are testing if the sample mean is greater than the population mean
-z_test = ztest(x1 = sample_mean, value = pop_mean, alternative = 'larger')
+# z_test = ztest(x1 = sample_mean, value = pop_mean, alternative = 'larger')
 
 
 # Should we reject the null hypothesis at a 0.05 significance level?
