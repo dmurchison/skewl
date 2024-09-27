@@ -86,3 +86,5 @@ value = 0.50
 print(proportions_ztest(counts, nobs, value, prop_var = value))
 # Output: (1.697056274847714, 0.08968602177036457)
 ```
+
+the Knicks scored just above, just below, or equal to 100 points, about 35 times would be an example of a one-sample z-test for proportions. The null hypothesis would be that the proportion of times the Knicks scored 100 points is 0.50, and the alternative hypothesis would be that the proportion is not 0.50. The p-value of 0.0897 is greater than the significance level of 0.05, so there is insufficient evidence to reject the null hypothesis that the proportion of times the Knicks scored 100 points is 0.50.
