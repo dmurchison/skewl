@@ -71,4 +71,3 @@ The critical value for a right-tailed test at the 0.05 significance level is 1.6
 ### Example 2
 
 A factory claims that the proportion of ball bearings with diameter values less than 2.20 cm in the existing manufacturing process is the same as the proportion in the new process. At alpha = 0.05, is there enough evidence to support the factory's claim?
-
