@@ -143,4 +143,3 @@ n2 = 107
 z = (mean1 - mean2) / np.sqrt((std_dev1**2/n1) + (std_dev2**2/n2))
 print(z)
 ```
-
