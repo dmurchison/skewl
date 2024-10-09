@@ -13,3 +13,5 @@ At each value of x in the figure below, the density curve shows the probability 
 - centered on the regression line (where the error is zero),
 - equally wide (equally variance), and
 - bell-shaped and symmetric (normal).
+
+Y = 190000 + (40*2000) 
