@@ -26,4 +26,11 @@ scores = pd.read_csv('http://data-analytics.zybooks.com/ExamScores.csv')
 print(st.ttest_1samp(scores['Exam1'], 82))
 ```
 
-The null hypothesis is that the mean exam score is 82. The alternative hypothesis is that the mean exam score is not 82. The p-value is 0.0001, which is less than the significance level of 0.05. Thus, there is sufficient evidence to reject the null hypothesis that the mean exam score is 82.
+Procedure for hypothesis testing two population means using the t-test:
+
+1. **State the null and alternative hypotheses, H0 and Ha.**
+    - H0: μ1 = μ2 (null hypothesis)
+    - Ha: μ1 ≠ μ2 (two-tailed test)
+    - Ha: μ1 > μ2 (right-tailed test)
+    - Ha: μ1 < μ2 (left-tailed test)
+    - In a test for two population means, the null hypothesis states that the means of the two populations are equal, while the alternative hypothesis states that the means are not equal, greater than, or less than each other.

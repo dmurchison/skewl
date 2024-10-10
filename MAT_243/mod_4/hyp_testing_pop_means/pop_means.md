@@ -29,13 +29,20 @@ where `x1` and `x2` are the means of the two populations, `s1` and `s2` are the 
 *Given two randomly selected samples each taken from an independent population where the standard deviations of each population is known,*
 
 1. State the null and alternative hypotheses, H0 and Ha.
-2. Determine the level of significance, α.
+2. Determine the level of significance, alpha.
 3. Calculate the test statistic, z.
-4. Determine the critical value, zα/2, "p-value"
+4. Calculate the critical value, p-value.
 5. Make a decision to reject or fail to reject the null hypothesis.
-    - If the test statistic is greater than the critical value, reject the null hypothesis.
-    - If the test statistic is less than the critical value, fail to reject the null hypothesis.
+    - If the p-value is less than the popular significance levels 0.05, 0.1, reject the null hypothesis.
+    - If the p-value is greater than the popular significance levels 0.05, 0.1, fail to reject the null hypothesis.
 6. Interpret the results of the hypothesis test.
+
+*If the population standard deviations are unknown, the t-test is used instead of the z-test.*
+
+1. State the null and alternative hypotheses, H0 and Ha. Ho: μ1 = μ2 and Ha: μ1 ≠ μ2, μ1 > μ2, or μ1 < μ2.
+2. Calculate the test statistic, t.
+3. Determine the p-value from the t-statistic.
+
 
 ### Example 1
 

@@ -16,7 +16,7 @@ The z-test can also be used to determine whether the population proportion is th
 
 ### Given a randomly selected sample taken from a population
 
-- 1 **Set the Null and Alternative Hypotheses**: Define the null hypothesis Ho and the alternative hypothesis Ha.
+- 1 **Set the Null and Alternative Hypotheses**: Define the null hypothesis Ho and the alternative hypothesis Ha. Ho: p = Po and Ha: p != Po, p < Po, or p > Po. where p is the sample proportion and Po is the hypothesized population proportion.
 - 2 **Calculate the Test Statistic**: Calculate the z-statistic from the sample data.
 
   ```py
