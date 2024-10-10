@@ -43,7 +43,6 @@ where `x1` and `x2` are the means of the two populations, `s1` and `s2` are the 
 2. Calculate the test statistic, t.
 3. Determine the p-value from the t-statistic.
 
-
 ### Example 1
 
 The mean burn time of two brands of 11-ounce candles are compared by a home safety magazine. The burn times of 100 candles of each brand are measured. The results are given in the table below.
