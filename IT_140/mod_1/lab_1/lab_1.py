@@ -19,3 +19,7 @@ print(user_string, user_char, user_float, user_int)
 # (Submit for 2 points, so 5 points total).
 
 print(f"{user_int} converted to a character is {chr(user_int)}")
+
+my_list = [user_int, user_float, user_char, user_string]
+
+
