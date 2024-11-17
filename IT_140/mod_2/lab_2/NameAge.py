@@ -16,8 +16,7 @@ in_month = input("Enter a month: ")
 in_day = int(input("Enter a day: "))
 
 # Make array of months.
-months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October",
-          "November", "December"]
+months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
 
 # The dates for each season are:
 # Spring: March 20 - June 20
