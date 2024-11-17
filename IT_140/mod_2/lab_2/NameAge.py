@@ -53,7 +53,3 @@ elif in_month == "January" or in_month == "February":
 elif in_month == "March" and in_day <= 19:
     season = "Winter"
 
-
-# Now if the month or the date is invalid we will output an error message
-
-return season
