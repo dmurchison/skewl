@@ -1,1 +1,7 @@
-
+-- Test file for DAD_220
+-- mysql> SHOW VARIABLES LIKE "secure_file_priv";
+-- +------------------+-----------------------+
+-- | Variable_name    | Value                 |
+-- +------------------+-----------------------+
+-- | secure_file_priv | /var/lib/mysql-files/ |
+-- +------------------+-----------------------+
