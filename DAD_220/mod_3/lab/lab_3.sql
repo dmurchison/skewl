@@ -24,6 +24,7 @@ VALUES
     (116, 'Ivy', 'Taylor', 1, 'Exempt', 'Full-Time', 72000),
     (117, 'Jack', 'Anderson', 2, 'Non-Exempt', 'Part-Time', 34000);
 
+
 SELECT *
 FROM
     Employee
@@ -31,6 +32,7 @@ WHERE
     Department_ID=1
 INTO OUTFILE
     '/var/lib/mysql-files/Employee_Department_1.txt';
+
 
 select
     First_Name, Last_Name, Department.Department_Name
