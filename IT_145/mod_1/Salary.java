@@ -12,5 +12,7 @@ public class Salary {
 
         System.out.print("Salary is ");
         System.out.println(wage * 40 * 52);
+
+        scnr.close();
     }
 }

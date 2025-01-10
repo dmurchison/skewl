@@ -14,5 +14,7 @@ public class SphereVolumeCalculator {
         sphereVolume = (4.0 / 3.0) * Math.PI * Math.pow(sphereRadius, 3);
 
         System.out.printf("%.2f\n", sphereVolume);
+
+        scnr.close();
     }
 }

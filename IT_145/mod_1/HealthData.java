@@ -24,5 +24,7 @@ public class HealthData {
 
         totalHeartbeats = userAgeMinutes * avgBeatsPerMinute;
         System.out.println("Your heart has beat " + totalHeartbeats + " times.");
+
+        scnr.close();
     }
 }

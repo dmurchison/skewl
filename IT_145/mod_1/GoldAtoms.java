@@ -17,5 +17,7 @@ public class GoldAtoms {
 
         System.out.print(gramsGold + " grams of gold contains ");
         System.out.println(atomsGold + " atoms");
+        
+        scnr.close();
     }
 }
