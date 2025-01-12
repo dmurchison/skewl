@@ -2,7 +2,7 @@ package mod_1;
 
 import java.util.Scanner;
 
-public class SphereVolumeCalculator {
+public class SphereVolCalc {
     public static void main(String[] args) {
         Scanner scnr = new Scanner(System.in);
         double sphereVolume;
