@@ -18,5 +18,7 @@ public class TimeConverter {
         System.out.print(userMinutes  + " minutes is ");
         System.out.print(outHours     + " hours and ");
         System.out.println(outMinutes + " minutes.");
+
+        scnr.close();
     }
 }

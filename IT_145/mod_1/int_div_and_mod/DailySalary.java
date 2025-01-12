@@ -19,5 +19,7 @@ public class DailySalary {
         salaryPerDay = salaryPerYear / daysPerYear;
 
         System.out.println("Salary per day is: " + salaryPerDay);
+
+        scnr.close();
     }
 }
