@@ -14,3 +14,10 @@ public class Salary {
         System.out.println(wage * 40 * 52);
     }
 }
+
+/*
+ * This program calcs anything
+ * Author: Duncan Murchison
+ * Date: Jan 6, 2025
+ */
+
