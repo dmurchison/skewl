@@ -1,0 +1,6 @@
+Order_ID,Order_Date,Customer_ID,Employee_ID,Shipper_ID,Order_Details
+1,2003-01-06,1,1,1,"Order 1 Details"
+2,2003-01-09,2,2,2,"Order 2 Details"
+3,2003-01-10,3,3,3,"Order 3 Details"
+4,2003-01-11,4,4,4,"Order 4 Details"
+5,2003-01-12,5,5,5,"Order 5 Details"
